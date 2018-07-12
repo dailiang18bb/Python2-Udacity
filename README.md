@@ -14,6 +14,8 @@ https://classroom.udacity.com/courses/ud036
 | :--- | :---------------| :--------------------- | :----------------------------- | :----------------------------- |
 | 1   | raw_input()       | raw_input([prompt])    | a = int(raw_input())           | [raw_input()][1]               |
 | 2   | range()       | range(stop) <br> range(start, stop[, step]) | N in range(6,21)           | [range()][2]      |
+| 3   | // vs /      |        |           |         |
+
 
 
 
