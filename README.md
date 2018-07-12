@@ -16,7 +16,6 @@ https://classroom.udacity.com/courses/ud036
 | 2   | range()       | range(stop) <br> range(start, stop[, step]) | N in range(6,21)           | [range()][2]      |
 
 
-range()
 
 
 
