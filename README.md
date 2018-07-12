@@ -17,6 +17,31 @@ https://classroom.udacity.com/courses/ud036
 | 3   | // vs /      |        |           |         |
 
 
+Python 2 syntax
+
+from __future__ import division
+
+# floating point division
+print 4 / 3
+
+# integer division  
+print 4 // 3
+
+
+
+for loop
+
+while loop
+
+
+
+Python 3 syntax
+print(4 / 3)
+print(4 // 3)
+
+print
+
+
 
 
 
