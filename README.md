@@ -43,6 +43,11 @@ print
 
 
 
+List Comprehensions
+
+arr.[-2] // second last one
+
+
 
 
 
